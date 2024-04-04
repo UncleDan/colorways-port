@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+
+Name: icon.svg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: MHcJH+uQEJA7k7v/43I3i5YGYwQ=
+SHA256-Digest: nqsptHZA3240Jnrxo0t9K7R9PX5hfQbjlIC9zmWu77o=
+
+Name: preview.svg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: +sbf0xGaowdI57J9KB1S7T5+5Ng=
+SHA256-Digest: gt5uHg0AS7Tpjx6TCq0LBQzN7nBvqpmYvtWW1AXDK+s=
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: OqkXR6IA3SxxIn6vezrW9gHFu0c=
+SHA256-Digest: hDFFanchnOuXrEjiP2wShZflzJiPDxC4q/uVbwHKQBo=
+

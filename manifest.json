@@ -1,0 +1,44 @@
+{
+  "manifest_version": 2,
+  "name": "Rawrrr!",
+  "author": "Mozilla",
+  "version": "2.1",
+  "icons": {
+    "32": "icon.svg"
+  },
+  "theme": {
+    "colors": {
+      "tab_background_text": "hsl(0, 0%, 0%)",
+      "tab_text": "hsl(0, 0%, 0%)",
+      "tab_selected": "hsl(0, 0%, 100%)",
+      "tab_line": "transparent",
+      "tab_loading": "hsl(356, 72%, 27%)",
+      "frame": "hsl(356, 95%, 67%)",
+      "popup": "hsl(0, 0%, 100%)",
+      "popup_text": "hsl(0, 0%, 0%)",
+      "popup_border": "hsl(356, 61%, 78%)",
+      "popup_highlight": "hsla(356, 75%, 76%, 0.6)",
+      "popup_highlight_text": "hsl(0, 0%, 0%)",
+      "toolbar": "hsl(356, 91%, 75%)",
+      "toolbar_text": "hsl(0, 0%, 0%)",
+      "toolbar_field": "hsl(356, 95%, 67%)",
+      "toolbar_field_text": "hsl(0, 0%, 0%)",
+      "toolbar_field_focus": "hsl(0, 0%, 100%)",
+      "toolbar_field_border_focus": "rgba(0, 96, 223, 0.5)",
+      "toolbar_top_separator": "transparent",
+      "toolbar_bottom_separator": "hsl(356, 95%, 67%)",
+      "ntp_background": "hsl(356, 84%, 88%)",
+      "ntp_card_background": "hsl(0, 0%, 100%)",
+      "ntp_text": "hsl(0, 0%, 0%)",
+      "sidebar": "hsl(0, 0%, 100%)",
+      "sidebar_text": "hsl(0, 0%, 0%)",
+      "sidebar_highlight": "hsla(356, 75%, 76%, 0.6)",
+      "icons_attention": "hsl(356, 72%, 27%)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "2022red-colorway@mozilla.org"
+    }
+  }
+}
